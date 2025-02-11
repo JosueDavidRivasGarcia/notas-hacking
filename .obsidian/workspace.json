@@ -139,12 +139,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glitch Cat.md",
+                "file": "Plantilla.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Glitch Cat"
+              "title": "Plantilla"
+            }
+          },
+          {
+            "id": "b66f0f6ff18b17b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nice netcat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nice netcat"
             }
           },
           {
@@ -162,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -309,9 +323,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "163dae6347042ef4",
+  "active": "b66f0f6ff18b17b1",
   "lastOpenFiles": [
     "Plantilla.md",
+    "Nice netcat.md",
     "Glitch Cat.md",
     "plumbing.md",
     "whats a net cat.md",
