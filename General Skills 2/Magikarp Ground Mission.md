@@ -83,7 +83,7 @@ Al juntar toda la bandera queda de la siguiente forma:
 picoCTF{xxsh_0ut_0f_\/\/4t3r_5190b070}
 ```
 
-Y terminamos el desafío.
+Y terminamos el desafio.
 ### Notas adicionales
 ### Referencias
 
