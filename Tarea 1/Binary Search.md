@@ -9,12 +9,12 @@ Los detalles adicionales estarán disponibles después de lanzar su instancia de
 ### Solución
 Lo primero que hacemos es conectarnos al servidor
 Conectar por ssh:
-```
+```ssh
 ssh -p 51729 ctf-player@atlas.picoctf.net
 ```
 La contraseña:
 `ctf-player@atlas.picoctf.net's password:`
-```
+```password
 1db87a14
 ```
 
