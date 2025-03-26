@@ -17,5 +17,5 @@ picoCTF{p1c0_s3cr3t_ag3nt_51414fa7}
 ```
 
 ### Notas adicionales
-### Referencias
+### Referencias 
 
