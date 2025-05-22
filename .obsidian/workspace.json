@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "d892662a68a75866",
+    "type": "split",
+    "children": [
+      {
+        "id": "7490e7a991086f74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "329f36b4d85cfc77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crypto_3/Mini RSA/Mini RSA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mini RSA"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ffbd5b6b308952b",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd41a35b3bd8468a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed8e1244411e6aa4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "1e09f76bd4eb72d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "3529c4dd16419865",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3e97044309f297bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c2407205321d181",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e618771265b5addf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Crypto_3/Mini RSA/Mini RSA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Mini RSA"
+            }
+          },
+          {
+            "id": "c3b917eedcd2dad9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Crypto_3/Mini RSA/Mini RSA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Mini RSA"
+            }
+          },
+          {
+            "id": "3f849160628c6720",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "a9559108972b90dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Crypto_3/Mini RSA/Mini RSA.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Mini RSA"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "329f36b4d85cfc77",
+  "lastOpenFiles": [
+    "Crypto_3/Mini RSA/venv/bin/activate.fish",
+    "Crypto_3/Mini RSA/venv/bin/activate",
+    "Crypto_3/Mini RSA/venv/bin/Activate.ps1",
+    "Crypto_3/Mini RSA/venv/bin/activate.csh",
+    "Crypto_3/Mini RSA/venv/lib/python3.13/site-packages/pip/_internal/operations/__pycache__/check.cpython-313.pyc",
+    "Crypto_3/Mini RSA/venv/lib/python3.13/site-packages/pip/_internal/operations/__pycache__/check.cpython-313.pyc.140644352687408",
+    "Crypto_3/Mini RSA/venv/lib/python3.13/site-packages/pip/_internal/operations/build/__pycache__/wheel_legacy.cpython-313.pyc",
+    "Crypto_3/Mini RSA/venv/lib/python3.13/site-packages/pip/_internal/operations/build/__pycache__/wheel_legacy.cpython-313.pyc.140644354604496",
+    "Crypto_3/Mini RSA/venv/lib/python3.13/site-packages/pip/_internal/operations/build/__pycache__/wheel_editable.cpython-313.pyc",
+    "Crypto_3/Mini RSA/venv/lib/python3.13/site-packages/pip/_internal/operations/build/__pycache__/wheel_editable.cpython-313.pyc.140644354604768",
+    "Crypto_3/Mini RSA/venv/lib/python3.13/site-packages/pip/_internal/operations/build/__pycache__/wheel.cpython-313.pyc",
+    "Crypto_3/Mind your Ps and Qs/Mind your Ps and Qs.md",
+    "Crypto_3/b00tl3gRSA2/b00tl3gRSA2.md",
+    "Crypto_3/b00tl3gRSA3/b00tl3gRSA3.md",
+    "Crypto_3/Mini RSA/Mini RSA.md",
+    "Plantilla.md"
+  ]
+}
